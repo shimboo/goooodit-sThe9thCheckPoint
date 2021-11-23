@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #14213d;
+}
+.noone {
+  border:solid 10px #fca311;max-width:100vw;
+margin-left: 10%;
+margin-right: 10%;
+background-color: #e5e5e5;
+}
+.img1 {
+  width: 640px;
+  height: 360px;
+}
+
+.img2 {
+  width: 640px;
+  height: 360px;
+}
+h1 {
+  color: #005f73;
+  background-color: #e5e5e5;
+  font-size: 150px;
+margin-top: -20px;
+margin-bottom: -20px;
+}
